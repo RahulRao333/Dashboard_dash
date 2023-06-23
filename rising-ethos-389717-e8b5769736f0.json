@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rising-ethos-389717",
+  "private_key_id": "e8b5769736f0c38705a5d031ddd5831ecb98d7ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCKCazdOyC15QOF\nXhFm9e2WaJo8pLUNoVs37ZAIrq4fDXc0RNTzcRw3Neg3+UhJWYrET/FfzZjs6oru\nSP0EjfwEAVFyy9zVsqqWvOgFIs+DRuExa2ty6vZG3J4FKDoxaVJYv+v8Wh0BQ/ai\nXdQL+boicRFXoJneDEoOPJCKuQEXWomjtd1YdEcnggIrXGOzJzSI/tgk5lEfcN7c\nmmNRb6ETxqojO+jSUwTzovOKZuwrGVtvDDa2jsZIAzP2XWgDowx2pbr28WUaa+OF\nG+cmWnmBk1hOgEH06G6P2sJKBjG5i+EOhrdgn+jsWK4h4e8SGL6lc1cPf+laH+hU\nslxSWjnrAgMBAAECggEAA4FJMBlMwTs7JcGxbAcpmb/QaGLMRoTTqQdkuJVRTla/\nfjnGaH1CRXQ4EDFjVwCpjkbALvnfyYBCt9gHNXx/d81d92Enm3Uc1/s2LwJm+Ryt\niJCdAVi0mTChgilqO0MpeDk88XYktczQ44DB0VRtfmtj9wqMB0BFO+uCX6tguwPw\nqaUXSdwFeMf+NvDmCzyoOESOLh22Wk8AEXGPitjQogmoXzW14nD+VS7T/BMlSBPA\nF4Zc1AiCsU8+PlJrefwCmLWblJKLcW4rprjjnCS/MGZpssjWGBPlPORrSCBw5Cxh\nklG/N00jPkpE+znuCmo9a5u0yCv0Dmw3Q9frYnmJeQKBgQDCcse7IJcW1CfMnbjH\ndn4LWbaugsgszP0hsR08+22OI9OO6bShvH16WISq5sVtXIZbopGJMfXNvNeOnh0W\nz5IWgBKA/hJTh9mQA48f4XqhxOm4CSjc5+QU4pzzMjAXy1WtXerp2wQC1TJe5y15\nDEYYtWc+Fl2ZYLWYEej66GkMYwKBgQC1u6L+nNNegc0YYWyhnaOw4WH4Fjg41zh4\nGxHtdhbz5nmHDdN5Vfjdygd5hzJ2a1gxLyg+auabvwIOPHFz9FlcAA0BXPwMk6GH\nMkWEJR0cZw1T99kwsq+BwMz9LPRjld4P1JaVElyKuPAd/J1YK+aEu3YzTE7nyMLN\nadkk/NJ+2QKBgQCL7gGhvjA8c2w4qX/hunm2PVdjeiYHZ3T6G/UIf381fL6v56rf\ngT9jHfRK8Es/Cgh+RR0qd9OFvNH6hfo1AicFHiEyxqP1jJuaMZV7wc14QLZYg+7u\nGcpe5T1BHerSFLeRTTbSF5RpXXckKITmyVhgS5sCaSHuUFQeHTVl6n4+NQKBgQCY\n3FRUn+r2om22JTRvmJ44SMvUFjSCMx2vgO2KdHsH+oOcQtfvRo5HWAkDguHCU7Zh\n4I2UOuzwcjCzcsnnQ8/qH6zQybrEhWUnx/RLG8CpxFCkoWQRnysbE+YYyrhiD4wy\nepmSmFg44ygtwO9EW+DRIrFgor34HpkkmPTqNLKFuQKBgQCEf1811WP/qx9vMtS5\nedSnYEC7mqx7mcakGMAeTIqQvCR4/aJE2VPSHio5cFiA9yWTyTCB1tgZudxL1Qx8\nw7+DQ2xMkwU3/FZ0nzuheKbnuini5qm8x9jBeb+gPCkz6ntmnmVdXAbhGRqSBeUk\nlghM6A8UQbt6zoOi0U9fQec7hg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga-api-client@rising-ethos-389717.iam.gserviceaccount.com",
+  "client_id": "101876482084123612872",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga-api-client%40rising-ethos-389717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
