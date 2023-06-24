@@ -1,0 +1,57 @@
+/* CSS styles for the cards */
+*{
+background-color:rgb(68, 68, 83);
+}
+​
+.full {
+  width: 100%;
+  float: left;
+  display: flex;
+}
+​
+.deatails{
+  width: 25%;
+  float: left;
+  background-color: aliceblue;
+  border: 5px solid #171616;
+  border-radius: 5px;
+}
+​
+.wrapper{
+  width: 75%;
+  float: left;
+  margin-left:10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.row{
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  gap:20px;
+  flex-direction: row-reverse;
+}
+.card {
+    width: 300px;
+    height: 200px;
+    border: 5px solid #171616;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    display: inline-flex;
+    align-items: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    background-color: aliceblue;
+  }
+
+  .card {
+    margin: 0;
+    padding: 0;
+  }
+
+  .card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
